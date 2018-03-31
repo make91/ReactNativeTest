@@ -1,2 +1,9 @@
 # React Native Test
 React Native practicing
+
+## Things done
+* Install and link react-native-navigation
+```
+npm i --save react-native-navigation
+npm link react-native-navigation
+```
