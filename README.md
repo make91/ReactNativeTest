@@ -13,7 +13,10 @@ react-native link react-native-navigation
 npm i --save realm
 react-native link realm
 ```
-
+* Installing release variant
+```
+react-native run-android --variant=release`
+```
 ## Screenshots
 | ![Home](../assets/home.png?raw=true) | ![Films](../assets/films.png?raw=true) | ![Films via button](../assets/films_via_button.png?raw=true) |
 |:---:|:---:|:---:|
