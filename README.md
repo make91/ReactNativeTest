@@ -7,3 +7,4 @@ React Native practicing
 npm i --save react-native-navigation
 npm link react-native-navigation
 ```
+* Changed compile sdk version to 25 in android/app/build.gradle.
