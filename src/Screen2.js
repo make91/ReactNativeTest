@@ -45,7 +45,7 @@ class Screen2 extends Component {
       }
     });
   }
-  componentWillMount() {
+  componentDidMount() {
     this.fetchFilms();
   }
   componentDidUpdate(prevProps, prevState) {
